@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>memu_screenshot_1700656298.1510584.png</filename>
+    <path>borneo-PascalVOC-export/Annotations/memu_screenshot_1700656298.1510584.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>900</width>
+        <height>1600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>hand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>462.11324257425747</xmin>
+        <ymin>814.707534492514</ymin>
+        <xmax>643.8955023737237</xmax>
+        <ymax>975.1532849495127</ymax>
+    </bndbox>
+</object>
+</annotation>

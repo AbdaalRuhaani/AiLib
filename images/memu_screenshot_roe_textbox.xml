@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>memu_screenshot_roe_textbox.png</filename>
+    <path>borneo-PascalVOC-export/Annotations/memu_screenshot_roe_textbox.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>900</width>
+        <height>1600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Unknown</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>452.00173258781433</xmin>
+        <ymin>710.0615978240967</ymin>
+        <xmax>476.3341963291168</xmax>
+        <ymax>762.471342086792</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,103 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>memu_screenshot_1700656286.6483378.png</filename>
+    <path>borneo-PascalVOC-export/Annotations/memu_screenshot_1700656286.6483378.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>900</width>
+        <height>1600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>hand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>463.36633663366354</xmin>
+        <ymin>750.5292887143106</ymin>
+        <xmax>641.5841584158418</xmax>
+        <ymax>918.1058495821727</ymax>
+    </bndbox>
+</object><object>
+    <name>trees</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>100.33114593808014</xmin>
+        <ymin>522.3398192679318</ymin>
+        <xmax>226.86577220954518</xmax>
+        <ymax>736.2673958696032</ymax>
+    </bndbox>
+</object><object>
+    <name>trees</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>118.15292811629797</xmin>
+        <ymin>816.4902370952299</ymin>
+        <xmax>248.2518564356436</xmax>
+        <ymax>1037.548828125</ymax>
+    </bndbox>
+</object><object>
+    <name>trees</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>73.59847267075341</xmin>
+        <ymin>1108.8580203255572</ymin>
+        <xmax>305.2816409875851</xmax>
+        <ymax>1442.2284394585656</ymax>
+    </bndbox>
+</object><object>
+    <name>trees</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>328.4498762376238</xmin>
+        <ymin>1297.8273524547355</ymin>
+        <xmax>629.6380222433866</xmax>
+        <ymax>1499.2757388144153</ymax>
+    </bndbox>
+</object><object>
+    <name>trees</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>675.9746287128713</xmin>
+        <ymin>779.0529383922354</ymin>
+        <xmax>900</xmax>
+        <ymax>1181.94991512883</ymax>
+    </bndbox>
+</object><object>
+    <name>trees</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>123.49938118811882</xmin>
+        <ymin>144.40112100670265</ymin>
+        <xmax>353.40039848101026</xmax>
+        <ymax>467.07522251479804</ymax>
+    </bndbox>
+</object><object>
+    <name>border</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>410.4300470635443</xmin>
+        <ymin>55.26463075600627</ymin>
+        <xmax>893.4004528687733</xmax>
+        <ymax>313.7604524830258</ymax>
+    </bndbox>
+</object>
+</annotation>

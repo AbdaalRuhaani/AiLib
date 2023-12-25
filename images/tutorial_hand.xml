@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>tutorial_hand.png</filename>
+    <path>borneo-PascalVOC-export/Annotations/tutorial_hand.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>214</width>
+        <height>214</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>hand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>94.15404627382921</xmin>
+        <ymin>82.50028400899308</ymin>
+        <xmax>201.69055107775506</xmax>
+        <ymax>189.79832505250045</ymax>
+    </bndbox>
+</object><object>
+    <name>bench</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>94.15404627382921</xmin>
+        <ymin>82.50028400899308</ymin>
+        <xmax>201.69055107775506</xmax>
+        <ymax>189.79832505250045</ymax>
+    </bndbox>
+</object><object>
+    <name>Unknown</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>171.25769519805908</xmin>
+        <ymin>80.47319388389587</ymin>
+        <xmax>181.6722447872162</xmax>
+        <ymax>118.8303472995758</ymax>
+    </bndbox>
+</object><object>
+    <name>bench</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>171.25769519805908</xmin>
+        <ymin>80.47319388389587</ymin>
+        <xmax>181.6722447872162</xmax>
+        <ymax>118.8303472995758</ymax>
+    </bndbox>
+</object>
+</annotation>

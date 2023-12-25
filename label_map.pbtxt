@@ -1,0 +1,40 @@
+item {
+ id: 1
+ name: 'button'
+}
+item {
+ id: 2
+ name: 'house'
+}
+item {
+ id: 3
+ name: 'trees'
+}
+item {
+ id: 4
+ name: 'person'
+}
+item {
+ id: 5
+ name: 'fire'
+}
+item {
+ id: 6
+ name: 'WAY'
+}
+item {
+ id: 7
+ name: 'border'
+}
+item {
+ id: 8
+ name: 'hand'
+}
+item {
+ id: 9
+ name: 'Unknown'
+}
+item {
+ id: 10
+ name: 'bench'
+}

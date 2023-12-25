@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>memu_screenshot_1700656301.0240269.png</filename>
+    <path>borneo-PascalVOC-export/Annotations/memu_screenshot_1700656301.0240269.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>900</width>
+        <height>1600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Unknown</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>580.1877200603485</xmin>
+        <ymin>740.4975891113281</ymin>
+        <xmax>597.5509464740753</xmax>
+        <ymax>817.6197052001953</ymax>
+    </bndbox>
+</object><object>
+    <name>Unknown</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>555.0351977348328</xmin>
+        <ymin>742.0101165771484</ymin>
+        <xmax>574.2639541625977</xmax>
+        <ymax>827.8244018554688</ymax>
+    </bndbox>
+</object>
+</annotation>

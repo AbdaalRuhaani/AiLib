@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>memu_screenshot_roe_hand.png</filename>
+    <path>borneo-PascalVOC-export/Annotations/memu_screenshot_roe_hand.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>900</width>
+        <height>1600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Unknown</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>581.1794400215149</xmin>
+        <ymin>731.06369972229</ymin>
+        <xmax>599.27898645401</xmax>
+        <ymax>810.0049018859863</ymax>
+    </bndbox>
+</object><object>
+    <name>Unknown</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>551.5753626823425</xmin>
+        <ymin>740.923023223877</ymin>
+        <xmax>567.6174402236938</xmax>
+        <ymax>819.7943687438965</ymax>
+    </bndbox>
+</object>
+</annotation>

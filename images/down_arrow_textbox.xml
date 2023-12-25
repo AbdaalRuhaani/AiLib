@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>down_arrow_textbox.png</filename>
+    <path>borneo-PascalVOC-export/Annotations/down_arrow_textbox.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>33</width>
+        <height>28</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0.3515507041985262</xmin>
+        <ymin>2.33983286908078</ymin>
+        <xmax>32.49290780141844</xmax>
+        <ymax>25.644569673245996</ymax>
+    </bndbox>
+</object>
+</annotation>
